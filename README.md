@@ -1,1 +1,2 @@
-# read_me_emoji_2
+⛔
+✅
